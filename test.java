@@ -1,3 +1,5 @@
+//This is java program to find out power of a number
+
 public class Power {
 
     public static void main(String[] args) {
